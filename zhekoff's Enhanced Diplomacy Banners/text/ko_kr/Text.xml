@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+		<Replace Tag="LOC_YIELD_GOLD_TOTAL" Language="ko_KR">
+			<Text>금 합계</Text>
+		</Replace>
+		<Replace Tag="LOC_YIELD_DIPLOMACY_TOTAL" Language="ko_KR">
+			<Text>영향력 합계</Text>
+		</Replace>
+		<Replace Tag="LOC_YIELD_POPULATION_TOTAL" Language="ko_KR">
+			<Text>인구 합계</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

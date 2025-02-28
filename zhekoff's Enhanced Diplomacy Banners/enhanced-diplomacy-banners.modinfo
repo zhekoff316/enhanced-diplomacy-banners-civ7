@@ -28,6 +28,7 @@
 				</ImportFiles>
 				<UpdateText>
                     <Item>text/en_us/Text.xml</Item>
+                    <Item locale="ko_KR">text/ko_KR/Text.xml</Item>
                 </UpdateText>
 			</Actions>
 		</ActionGroup>
