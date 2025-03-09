@@ -45,9 +45,10 @@
 				</UIScripts>
 				<UpdateText>
 					<Item>text/options/options.sql</Item>
-                    <Item>text/en_us/Text.xml</Item>
-                    <Item locale="ko_KR">text/ko_kr/Text.xml</Item>
-                </UpdateText>
+		                        <Item>text/en_us/Text.xml</Item>
+		                        <Item locale="ko_KR">text/ko_kr/Text.xml</Item>
+				        <Item locale="pt_BR">text/pt_br/Text.xml</Item>
+		                </UpdateText>
 			</Actions>
 		</ActionGroup>
 	</ActionGroups>

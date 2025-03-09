@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+		<Row Tag="LOC_YIELD_GOLD_TOTAL" Language="pt_BR">
+			<Text>Quantidade total de ouro disponível.</Text>
+		</Row>
+		<Row Tag="LOC_YIELD_DIPLOMACY_TOTAL" Language="pt_BR">
+			<Text>Quantidade total de influência disponível.</Text>
+		</Row>
+		<Row Tag="LOC_YIELD_POPULATION_TOTAL" Language="pt_BR">
+			<Text>Quantidade total de população.</Text>
+		</Row>
+	</LocalizedText>
+</Database>
